@@ -2,11 +2,20 @@
     <string name="app_name">Voice Notebook</string>
     <string name="heading_memos_list">Memos</string>
 
-    <string name="large_text">
-        "Material is the metaphor.\n\n"
-        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
-        "when a user tries to pick up one of cards.\n\n"
-    </string>
+    <string name="loading">Loading�</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="label_custom_auth">Custom Authentication</string>
+    <string name="desc_custom_auth">Use a custom token signed by your own server to authenticate with Firebase.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="large_text">"Material is the metaphor."</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="com_auth0_client_id">Tjxt2i7KJK21Jve1KzNQ1MBhVO6O3Xhs</string>
+    <string name="com_auth0_domain">myvoicenotebook.auth0.com</string>
+
 </resources>

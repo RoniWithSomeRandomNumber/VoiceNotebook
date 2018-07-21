@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "571211061750",
+    "firebase_url": "https://my-notebook-babfd.firebaseio.com",
+    "project_id": "my-notebook-babfd",
+    "storage_bucket": "my-notebook-babfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571211061750:android:41d94e40d9bd184d",
+        "android_client_info": {
+          "package_name": "com.amelierosseneu.voicenotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571211061750-t0bvobpf1on56nibitd3tar8i8aop2f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amelierosseneu.voicenotebook",
+            "certificate_hash": "33dca46c495c8a40cc99561d1dd2c2299319e7cb"
+          }
+        },
+        {
+          "client_id": "571211061750-0rqprkloecnmgg4jvb81mqtd5ej6jpg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfiHbSSJ5bWBQPKbB5JNZxxSkzqdM_jUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571211061750-4t4mdnfc6j6qr1bd6fkpeqk4pvrjs4qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
